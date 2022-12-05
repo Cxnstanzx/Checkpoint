@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 Constanza: 
+=======
+.﻿tokencheckpoint
+>>>>>>> 7aa3dee49083b376d998bcdf7a4f8ab1de41efb1
 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
