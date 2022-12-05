@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+Constanza: 
+=======
+Constanza: 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
+Token Julian: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
+=======
+<<<<<<< HEAD
+﻿tokencheckpoint
+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
+Token Anthony: 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
+>>>>>>> 747802cfd758437054448454d449f7e5967d6170
+=======
+.﻿tokencheckpoint
+>>>>>>> 7aa3dee49083b376d998bcdf7a4f8ab1de41efb1
+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
+<<<<<<< HEAD
+
+isaias token 
+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
+=======
+>>>>>>> 7aa3dee49083b376d998bcdf7a4f8ab1de41efb1
+>>>>>>> 68362c338f68c9a5c0d9c1f09e5eeeaa5828ce5b
